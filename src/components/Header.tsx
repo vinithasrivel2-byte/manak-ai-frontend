@@ -17,9 +17,7 @@ export const Header: React.FC<HeaderProps> = ({ currentLanguage, onLanguageChang
           </span>
         </div>
         <div className="flex items-center space-x-4 text-xs">
-          <span className="bg-amber-900/60 text-amber-300 px-2 py-0.5 rounded border border-amber-600/40 font-mono">
-            PS 26108 (SIH)
-          </span>
+          
           <span className="text-slate-400 hidden sm:inline">Bureau of Indian Standards (BIS) Intelligence</span>
         </div>
       </div>
