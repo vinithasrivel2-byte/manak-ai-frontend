@@ -75,9 +75,7 @@ export function App() {
           <p>
             Department of Consumer Affairs (DoCA) • Ministry of Consumer Affairs, Food & Public Distribution
           </p>
-          <p className="text-[11px] text-slate-500">
-            Built for Smart India Hackathon (SIH) Problem Statement 26108
-          </p>
+         
         </div>
       </footer>
 
