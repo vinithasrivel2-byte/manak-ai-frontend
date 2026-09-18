@@ -25,9 +25,6 @@ export const AppHeader: React.FC<AppHeaderProps> = ({
             Dept of Consumer Affairs • BIS
           </span>
         </div>
-        <div className="font-mono text-amber-400 text-[10px] font-bold">
-          PS 26108
-        </div>
       </div>
 
       {/* Main App Bar */}
